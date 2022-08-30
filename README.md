@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yangliuxin
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering during my undergraduate education
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please use liuxin.yang@ucdconnect.ie to contact me
 
