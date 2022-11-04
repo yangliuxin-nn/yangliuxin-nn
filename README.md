@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yang Liuxin, a senior student majoring in Software Engineering in BJUT.
+- 👋 Hi, I’m Yang Liuxin, a senior student majoring in Software Engineering in BJUT and UCD.
 - 👀 I’m interested in Machine Learning
 - 🌱 I work as an intern in BJUT, PKU and UWO.
 - 💞️ I’m looking to collaborate on ...
