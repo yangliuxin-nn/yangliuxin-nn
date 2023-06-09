@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yang Liuxin, a senior year student majoring in Software Engineering in BJUT and UCD. I will be pursuing my master degree in ______.
-- 👀 I’m interested in Machine Learning.
-- 🌱 I worked as an intern in BJUT, PKU and UWO.
+- 👋 Hi, I’m Yang Liuxin, a senior year student majoring in Software Engineering in BJUT and UCD.
+- 👀 I’m interested in Software Systems, Machine Learning and Optimization.
+- 🌱 I worked as an intern in BJUT, PKU, UWO and Bosch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Please use liuxin.yang@ucdconnect.ie to contact me
 
